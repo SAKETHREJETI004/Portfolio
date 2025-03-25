@@ -40,10 +40,10 @@ Contributing
 If you wish to contribute or suggest improvements, feel free to fork the repository and submit a pull request.
 
 Contact
-For any inquiries, feel free to reach out:
-- Email: [your-email@example.com]
-- LinkedIn: [Your LinkedIn Profile]
-- Portfolio Website: [Your Portfolio URL]
+For any inquiries, feel free to reach out:🔗 Connect with Me
+📧 Email: chinturejeti123@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/saketh-rejeti-425325259  
+🔗 GitHub: https://github.com/SAKETHREJETI004
 
 ---
 
